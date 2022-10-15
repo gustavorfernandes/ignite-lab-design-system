@@ -1,3 +1,5 @@
-# ignite-lab-design-system
+# Ignite Lab - Design System
 
-Design system: https://gustavorfernandes.github.io/ignite-lab-design-system/?path=/story/components-button--default
+Documentation with Storybook: https://gustavorfernandes.github.io/ignite-lab-design-system
+
+Static Page: https://ignite-lab-design-system-main.vercel.app
